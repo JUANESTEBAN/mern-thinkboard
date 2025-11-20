@@ -1,0 +1,23 @@
+{
+  "name": "mern",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "npm install --prefix backend && npm install --prefix frontend"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JUANESTEBAN/mern-thinkboard.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JUANESTEBAN/mern-thinkboard/issues"
+  },
+  "homepage": "https://github.com/JUANESTEBAN/mern-thinkboard#readme",
+  "dependencies": {
+    "build": "^0.1.4"
+  }
+}
